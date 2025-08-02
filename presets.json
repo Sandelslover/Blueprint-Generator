@@ -1,0 +1,1329 @@
+{
+  "react-app": {
+    "public": {
+      "images": {},
+      "css": {},
+      "favicon.ico": null
+    },
+    "src": {
+      "components": {},
+      "pages": {},
+      "hooks": {},
+      "context": {},
+      "services": {},
+      "utils": {},
+      "styles": {},
+      "assets": {}
+    },
+    "tests": {
+      "unit": {},
+      "integration": {}
+    },
+    "config": {
+      "webpack.config.js": null
+    },
+    "scripts": {
+      "build.sh": null
+    },
+    "docs": {
+      "api.md": null
+    },
+    "node_modules": {},
+    "dist": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    ".env": null,
+    ".eslintrc.js": null,
+    "vite.config.js": null
+  },
+  "nextjs-app": {
+    "app": {
+      "api": {},
+      "globals.css": null,
+      "layout.tsx": null,
+      "loading.tsx": null,
+      "page.tsx": null
+    },
+    "components": {
+      "ui": {},
+      "forms": {},
+      "layout": {}
+    },
+    "lib": {
+      "utils.ts": null,
+      "validations.ts": null
+    },
+    "hooks": {},
+    "types": {
+      "index.ts": null
+    },
+    "public": {
+      "images": {},
+      "icons": {}
+    },
+    "styles": {},
+    "tests": {
+      "__mocks__": {}
+    },
+    "docs": {},
+    "node_modules": {},
+    ".next": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    ".env.local": null,
+    "next.config.js": null,
+    "tailwind.config.js": null,
+    "tsconfig.json": null
+  },
+  "express-api": {
+    "src": {
+      "controllers": {},
+      "routes": {},
+      "models": {},
+      "middleware": {},
+      "services": {},
+      "utils": {},
+      "config": {}
+    },
+    "tests": {
+      "unit": {},
+      "integration": {},
+      "e2e": {}
+    },
+    "migrations": {},
+    "public": {},
+    "logs": {},
+    "scripts": {
+      "seed.js": null
+    },
+    "docs": {
+      "swagger.yaml": null
+    },
+    "node_modules": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    ".env": null,
+    ".eslintrc.js": null,
+    "jest.config.js": null,
+    "Dockerfile": null
+  },
+  "django-app": {
+    "myproject": {
+      "settings": {},
+      "urls": {},
+      "wsgi.py": null,
+      "asgi.py": null
+    },
+    "apps": {
+      "users": {
+        "migrations": {},
+        "models": {},
+        "views": {},
+        "tests": {}
+      },
+      "blog": {}
+    },
+    "static": {
+      "css": {},
+      "js": {},
+      "images": {}
+    },
+    "templates": {
+      "base.html": null
+    },
+    "tests": {},
+    "docs": {},
+    "scripts": {
+      "deploy.sh": null
+    },
+    "venv": {},
+    ".gitignore": null,
+    "requirements.txt": null,
+    "README.md": null,
+    "manage.py": null,
+    ".env": null,
+    "Dockerfile": null
+  },
+  "fastapi-app": {
+    "app": {
+      "api": {
+        "v1": {
+          "endpoints": {},
+          "__init__.py": null
+        },
+        "__init__.py": null
+      },
+      "core": {
+        "config.py": null,
+        "security.py": null,
+        "dependencies.py": null,
+        "__init__.py": null
+      },
+      "models": {
+        "__init__.py": null
+      },
+      "schemas": {
+        "__init__.py": null
+      },
+      "services": {
+        "__init__.py": null
+      },
+      "utils": {
+        "__init__.py": null
+      },
+      "main.py": null,
+      "__init__.py": null
+    },
+    "tests": {
+      "unit": {},
+      "integration": {},
+      "conftest.py": null
+    },
+    "migrations": {
+      "versions": {}
+    },
+    "scripts": {
+      "start.sh": null
+    },
+    "docs": {
+      "openapi.json": null
+    },
+    ".gitignore": null,
+    "requirements.txt": null,
+    "requirements-dev.txt": null,
+    "README.md": null,
+    ".env": null,
+    "Dockerfile": null,
+    "docker-compose.yml": null,
+    "pyproject.toml": null
+  },
+  "vue-app": {
+    "public": {
+      "index.html": null,
+      "favicon.ico": null
+    },
+    "src": {
+      "assets": {
+        "images": {},
+        "styles": {}
+      },
+      "components": {
+        "common": {},
+        "layout": {}
+      },
+      "views": {},
+      "router": {
+        "index.js": null
+      },
+      "store": {
+        "modules": {},
+        "index.js": null
+      },
+      "composables": {},
+      "utils": {},
+      "services": {
+        "api.js": null
+      },
+      "plugins": {},
+      "App.vue": null,
+      "main.js": null
+    },
+    "tests": {
+      "unit": {},
+      "e2e": {}
+    },
+    "docs": {},
+    "node_modules": {},
+    "dist": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    "vue.config.js": null,
+    "babel.config.js": null,
+    "jest.config.js": null,
+    ".env": null
+  },
+  "data-science-project": {
+    "data": {
+      "raw": {},
+      "processed": {},
+      "external": {}
+    },
+    "notebooks": {},
+    "src": {
+      "features": {},
+      "models": {},
+      "visualization": {},
+      "utils": {}
+    },
+    "tests": {},
+    "models": {},
+    "scripts": {
+      "preprocess.py": null
+    },
+    "docs": {
+      "report.md": null
+    },
+    "venv": {},
+    ".gitignore": null,
+    "requirements.txt": null,
+    "README.md": null,
+    ".env": null,
+    "setup.py": null
+  },
+  "flutter-app": {
+    "android": {},
+    "ios": {},
+    "lib": {
+      "models": {},
+      "screens": {},
+      "widgets": {},
+      "services": {},
+      "utils": {}
+    },
+    "assets": {
+      "images": {},
+      "fonts": {}
+    },
+    "test": {
+      "widget": {}
+    },
+    "docs": {
+      "setup.md": null
+    },
+    ".gitignore": null,
+    "pubspec.yaml": null,
+    "README.md": null,
+    "analysis_options.yaml": null
+  },
+  "go-microservice": {
+    "cmd": {
+      "api": {
+        "main.go": null
+      },
+      "worker": {
+        "main.go": null
+      }
+    },
+    "internal": {
+      "api": {
+        "handlers": {},
+        "middleware": {},
+        "routes": {}
+      },
+      "config": {
+        "config.go": null
+      },
+      "database": {
+        "migrations": {},
+        "seeds": {}
+      },
+      "models": {},
+      "services": {},
+      "utils": {}
+    },
+    "pkg": {
+      "logger": {},
+      "validator": {},
+      "response": {}
+    },
+    "api": {
+      "swagger": {
+        "docs.go": null
+      }
+    },
+    "tests": {
+      "unit": {},
+      "integration": {},
+      "mocks": {}
+    },
+    "deployments": {
+      "docker": {},
+      "k8s": {}
+    },
+    "scripts": {
+      "build.sh": null,
+      "test.sh": null
+    },
+    "docs": {
+      "api.md": null
+    },
+    ".gitignore": null,
+    "go.mod": null,
+    "go.sum": null,
+    "README.md": null,
+    "Dockerfile": null,
+    "Makefile": null
+  },
+  "mobile-app-rn": {
+    "android": {},
+    "ios": {},
+    "src": {
+      "components": {
+        "common": {},
+        "forms": {}
+      },
+      "screens": {
+        "auth": {},
+        "main": {},
+        "profile": {}
+      },
+      "navigation": {
+        "AppNavigator.js": null,
+        "AuthNavigator.js": null
+      },
+      "services": {
+        "api": {},
+        "storage": {},
+        "notifications": {}
+      },
+      "utils": {
+        "constants.js": null,
+        "helpers.js": null
+      },
+      "hooks": {},
+      "context": {},
+      "assets": {
+        "images": {},
+        "fonts": {}
+      },
+      "styles": {
+        "colors.js": null,
+        "typography.js": null
+      }
+    },
+    "tests": {
+      "__tests__": {},
+      "e2e": {}
+    },
+    "scripts": {
+      "build-android.sh": null,
+      "build-ios.sh": null
+    },
+    "docs": {
+      "setup.md": null
+    },
+    "node_modules": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    ".env": null,
+    "metro.config.js": null,
+    "app.json": null,
+    "babel.config.js": null
+  },
+  "spring-boot-app": {
+    "src": {
+      "main": {
+        "java": {
+          "com.example": {
+            "controller": {},
+            "service": {},
+            "repository": {},
+            "model": {},
+            "config": {}
+          }
+        },
+        "resources": {
+          "static": {},
+          "templates": {},
+          "application.yml": null
+        }
+      },
+      "test": {
+        "java": {
+          "com.example": {}
+        }
+      }
+    },
+    "docs": {
+      "api.md": null
+    },
+    "target": {},
+    ".gitignore": null,
+    "pom.xml": null,
+    "README.md": null,
+    ".env": null,
+    "Dockerfile": null
+  },
+  "react-native-app": {
+    "android": {},
+    "ios": {},
+    "src": {
+      "components": {},
+      "screens": {},
+      "navigation": {},
+      "services": {},
+      "utils": {},
+      "assets": {},
+      "styles": {}
+    },
+    "tests": {
+      "unit": {},
+      "e2e": {}
+    },
+    "scripts": {
+      "build.sh": null
+    },
+    "docs": {
+      "setup.md": null
+    },
+    "node_modules": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    ".env": null,
+    "metro.config.js": null,
+    "app.json": null
+  },
+  "go-project": {
+    "cmd": {
+      "app": {}
+    },
+    "internal": {
+      "api": {},
+      "db": {},
+      "service": {},
+      "util": {}
+    },
+    "pkg": {
+      "logger": {}
+    },
+    "tests": {
+      "unit": {},
+      "integration": {}
+    },
+    "config": {
+      "config.yaml": null
+    },
+    "scripts": {
+      "build.sh": null
+    },
+    "docs": {
+      "api.md": null
+    },
+    ".gitignore": null,
+    "go.mod": null,
+    "go.sum": null,
+    "README.md": null,
+    "Dockerfile": null
+  },
+  "cpp-project": {
+    "include": {
+      "mylib": {}
+    },
+    "src": {
+      "mylib": {}
+    },
+    "tests": {
+      "unit": {}
+    },
+    "build": {},
+    "docs": {
+      "design.md": null
+    },
+    "scripts": {
+      "build.sh": null
+    },
+    ".gitignore": null,
+    "CMakeLists.txt": null,
+    "README.md": null,
+    "Dockerfile": null
+  },
+  "rust-project": {
+    "src": {
+      "bin": {},
+      "lib": {},
+      "main.rs": null
+    },
+    "tests": {
+      "integration": {}
+    },
+    "benches": {},
+    "examples": {},
+    "docs": {
+      "guide.md": null
+    },
+    "target": {},
+    ".gitignore": null,
+    "Cargo.toml": null,
+    "README.md": null,
+    "rustfmt.toml": null
+  },
+  "angular-app": {
+    "src": {
+      "app": {
+        "components": {},
+        "services": {},
+        "models": {},
+        "pipes": {},
+        "guards": {},
+        "pages": {}
+      },
+      "assets": {},
+      "styles": {},
+      "environments": {}
+    },
+    "e2e": {
+      "src": {},
+      "protractor.conf.js": null
+    },
+    "tests": {
+      "unit": {},
+      "integration": {}
+    },
+    "public": {
+      "favicon.ico": null
+    },
+    "docs": {
+      "guide.md": null
+    },
+    "node_modules": {},
+    "dist": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    "angular.json": null,
+    "tsconfig.json": null,
+    ".eslintrc.js": null,
+    "Dockerfile": null
+  },
+  "unity-game": {
+    "Assets": {
+      "Scenes": {},
+      "Scripts": {},
+      "Prefabs": {},
+      "Sprites": {},
+      "Models": {},
+      "Materials": {},
+      "Audio": {},
+      "Animations": {}
+    },
+    "Packages": {
+      "manifest.json": null
+    },
+    "ProjectSettings": {},
+    "Library": {},
+    "Builds": {},
+    "Tests": {
+      "Editor": {},
+      "PlayMode": {}
+    },
+    "docs": {
+      "game-design.md": null
+    },
+    ".gitignore": null,
+    "README.md": null,
+    "Assembly-CSharp.csproj": null
+  },
+  "embedded-project": {
+    "src": {
+      "main.c": null,
+      "drivers": {},
+      "utils": {}
+    },
+    "include": {
+      "config.h": null
+    },
+    "lib": {
+      "thirdparty": {}
+    },
+    "test": {
+      "unit": {}
+    },
+    "scripts": {
+      "flash.sh": null
+    },
+    "docs": {
+      "hardware.md": null
+    },
+    "build": {},
+    ".gitignore": null,
+    "platformio.ini": null,
+    "README.md": null,
+    ".clang-format": null
+  },
+  "android-app": {
+    "app": {
+      "src": {
+        "main": {
+          "java": {
+            "com.example": {
+              "activities": {},
+              "fragments": {},
+              "viewmodels": {},
+              "models": {}
+            }
+          },
+          "res": {
+            "layout": {},
+            "drawable": {},
+            "values": {}
+          },
+          "AndroidManifest.xml": null
+        },
+        "test": {},
+        "build": {}
+      }
+    },
+    "docs": {
+      "setup.md": null
+    },
+    ".gitignore": null,
+    "build.gradle": null,
+    "README.md": null,
+    "settings.gradle": null
+  },
+  "svelte-app": {
+    "src": {
+      "routes": {
+        "+page.svelte": null
+      },
+      "lib": {
+        "components": {},
+        "utils": {}
+      },
+      "assets": {},
+      "app.html": null,
+      "app.d.ts": null
+    },
+    "static": {
+      "images": {},
+      "favicon.png": null
+    },
+    "tests": {
+      "unit": {},
+      "e2e": {}
+    },
+    "docs": {
+      "guide.md": null
+    },
+    "node_modules": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    "svelte.config.js": null,
+    "vite.config.js": null,
+    "tsconfig.json": null,
+    ".env": null
+  },
+  "laravel-app": {
+    "app": {
+      "Http": {
+        "Controllers": {},
+        "Middleware": {}
+      },
+      "Models": {},
+      "Providers": {}
+    },
+    "config": {
+      "app.php": null,
+      "database.php": null
+    },
+    "database": {
+      "migrations": {},
+      "seeders": {}
+    },
+    "public": {
+      "css": {},
+      "js": {},
+      "images": {}
+    },
+    "resources": {
+      "views": {},
+      "css": {},
+      "js": {}
+    },
+    "routes": {
+      "web.php": null,
+      "api.php": null
+    },
+    "tests": {
+      "Feature": {},
+      "Unit": {}
+    },
+    "docs": {
+      "api.md": null
+    },
+    ".gitignore": null,
+    "composer.json": null,
+    "README.md": null,
+    ".env": null,
+    "artisan": null,
+    "Dockerfile": null
+  },
+  "phoenix-app": {
+    "lib": {
+      "my_app": {
+        "controllers": {},
+        "views": {},
+        "channels": {}
+      },
+      "my_app_web": {
+        "endpoint.ex": null,
+        "router.ex": null
+      }
+    },
+    "assets": {
+      "css": {},
+      "js": {},
+      "static": {}
+    },
+    "config": {
+      "config.exs": null,
+      "dev.exs": null,
+      "prod.exs": null
+    },
+    "test": {
+      "unit": {},
+      "integration": {}
+    },
+    "priv": {
+      "repo": {
+        "migrations": {}
+      },
+      "static": {}
+    },
+    "docs": {
+      "guide.md": null
+    },
+    ".gitignore": null,
+    "mix.exs": null,
+    "README.md": null,
+    ".env": null,
+    "Dockerfile": null
+  },
+  "ruby-rails-app": {
+    "app": {
+      "controllers": {},
+      "models": {},
+      "views": {},
+      "helpers": {},
+      "mailers": {},
+      "jobs": {}
+    },
+    "config": {
+      "routes.rb": null,
+      "database.yml": null,
+      "application.rb": null
+    },
+    "db": {
+      "migrate": {},
+      "seeds.rb": null
+    },
+    "public": {
+      "assets": {}
+    },
+    "test": {
+      "controllers": {},
+      "models": {},
+      "integration": {}
+    },
+    "docs": {
+      "api.md": null
+    },
+    ".gitignore": null,
+    "Gemfile": null,
+    "README.md": null,
+    ".env": null,
+    "Dockerfile": null
+  },
+  "nestjs-app": {
+    "src": {
+      "controllers": {},
+      "services": {},
+      "modules": {},
+      "dtos": {},
+      "entities": {},
+      "main.ts": null,
+      "app.module.ts": null
+    },
+    "test": {
+      "unit": {},
+      "e2e": {}
+    },
+    "config": {
+      "config.yaml": null
+    },
+    "docs": {
+      "api.md": null
+    },
+    "node_modules": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    "nest-cli.json": null,
+    "tsconfig.json": null,
+    ".env": null,
+    "Dockerfile": null
+  },
+  "quarkus-app": {
+    "src": {
+      "main": {
+        "java": {
+          "org.example": {
+            "resources": {},
+            "services": {},
+            "entities": {}
+          }
+        },
+        "resources": {
+          "application.properties": null,
+          "static": {}
+        }
+      },
+      "test": {
+        "java": {
+          "org.example": {}
+        }
+      }
+    },
+    "docs": {
+      "api.md": null
+    },
+    ".gitignore": null,
+    "pom.xml": null,
+    "README.md": null,
+    "Dockerfile": null
+  },
+  "ml-project": {
+    "data": {
+      "raw": {},
+      "processed": {},
+      "features": {}
+    },
+    "notebooks": {
+      "eda": {},
+      "experiments": {}
+    },
+    "src": {
+      "models": {},
+      "preprocessing": {},
+      "training": {},
+      "inference": {},
+      "utils": {}
+    },
+    "tests": {
+      "unit": {}
+    },
+    "models": {
+      "saved_models": {}
+    },
+    "scripts": {
+      "train.py": null,
+      "predict.py": null
+    },
+    "docs": {
+      "model.md": null
+    },
+    "venv": {},
+    ".gitignore": null,
+    "requirements.txt": null,
+    "README.md": null,
+    ".env": null,
+    "Dockerfile": null
+  },
+  "godot-game": {
+    "project": {
+      "scenes": {},
+      "scripts": {},
+      "assets": {
+        "sprites": {},
+        "audio": {},
+        "fonts": {}
+      }
+    },
+    "docs": {
+      "game-design.md": null
+    },
+    ".gitignore": null,
+    "project.godot": null,
+    "README.md": null,
+    "export_presets.cfg": null
+  },
+  "unreal-game": {
+    "Source": {
+      "MyGame": {}
+    },
+    "Content": {
+      "Blueprints": {},
+      "Maps": {},
+      "Materials": {},
+      "Meshes": {},
+      "Textures": {},
+      "Audio": {}
+    },
+    "Config": {
+      "DefaultEngine.ini": null
+    },
+    "Plugins": {},
+    "docs": {
+      "game-design.md": null
+    },
+    ".gitignore": null,
+    "MyGame.uproject": null,
+    "README.md": null
+  },
+  "svelte-native-app": {
+    "src": {
+      "components": {},
+      "pages": {},
+      "stores": {},
+      "utils": {},
+      "App.svelte": null
+    },
+    "assets": {
+      "images": {},
+      "fonts": {}
+    },
+    "tests": {
+      "unit": {}
+    },
+    "docs": {
+      "setup.md": null
+    },
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    ".env": null
+  },
+  "ionic-app": {
+    "src": {
+      "app": {
+        "pages": {},
+        "components": {},
+        "services": {},
+        "app.component.ts": null
+      },
+      "assets": {},
+      "theme": {
+        "variables.scss": null
+      }
+    },
+    "tests": {
+      "unit": {},
+      "e2e": {}
+    },
+    "docs": {
+      "setup.md": null
+    },
+    "node_modules": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    "ionic.config.json": null,
+    "angular.json": null,
+    "tsconfig.json": null
+  },
+  "electron-app": {
+    "src": {
+      "main": {
+        "main.js": null
+      },
+      "renderer": {
+        "components": {},
+        "pages": {},
+        "styles": {}
+      }
+    },
+    "public": {
+      "assets": {}
+    },
+    "tests": {
+      "unit": {}
+    },
+    "docs": {
+      "setup.md": null
+    },
+    "node_modules": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    ".env": null,
+    "electron-builder.yml": null
+  },
+  "aws-serverless": {
+    "src": {
+      "functions": {
+        "api": {},
+        "workers": {}
+      },
+      "utils": {}
+    },
+    "templates": {
+      "template.yaml": null
+    },
+    "tests": {
+      "unit": {}
+    },
+    "docs": {
+      "architecture.md": null
+    },
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    "serverless.yml": null
+  },
+  "kubernetes-project": {
+    "charts": {
+      "my-app": {
+        "templates": {},
+        "Chart.yaml": null,
+        "values.yaml": null
+      }
+    },
+    "manifests": {
+      "deployments": {},
+      "services": {}
+    },
+    "scripts": {
+      "deploy.sh": null
+    },
+    "docs": {
+      "k8s.md": null
+    },
+    ".gitignore": null,
+    "README.md": null,
+    "Dockerfile": null
+  },
+  "ansible-project": {
+    "playbooks": {
+      "site.yml": null
+    },
+    "roles": {
+      "common": {
+        "tasks": {},
+        "handlers": {},
+        "templates": {}
+      }
+    },
+    "inventory": {
+      "hosts.yml": null
+    },
+    "docs": {
+      "setup.md": null
+    },
+    ".gitignore": null,
+    "README.md": null,
+    "ansible.cfg": null
+  },
+  "terraform-project": {
+    "modules": {
+      "network": {},
+      "compute": {}
+    },
+    "environments": {
+      "prod": {},
+      "dev": {}
+    },
+    "scripts": {
+      "deploy.sh": null
+    },
+    "docs": {
+      "infrastructure.md": null
+    },
+    ".gitignore": null,
+    "README.md": null,
+    "main.tf": null,
+    "variables.tf": null,
+    "outputs.tf": null
+  },
+  "graphql-api": {
+    "src": {
+      "resolvers": {},
+      "schemas": {},
+      "dataSources": {},
+      "utils": {},
+      "server.js": null
+    },
+    "tests": {
+      "unit": {},
+      "integration": {}
+    },
+    "docs": {
+      "api.md": null
+    },
+    "node_modules": {},
+    ".gitignore": null,
+    "package.json": null,
+    "README.md": null,
+    ".env": null,
+    "Dockerfile": null
+  },
+  "deno-app": {
+    "src": {
+      "routes": {},
+      "services": {},
+      "utils": {},
+      "main.ts": null
+    },
+    "tests": {
+      "unit": {}
+    },
+    "docs": {
+      "api.md": null
+    },
+    ".gitignore": null,
+    "README.md": null,
+    "deno.json": null,
+    ".env": null,
+    "Dockerfile": null
+  },
+  "scala-play-app": {
+    "app": {
+      "controllers": {},
+      "models": {},
+      "views": {}
+    },
+    "conf": {
+      "application.conf": null,
+      "routes": null
+    },
+    "public": {
+      "stylesheets": {},
+      "javascripts": {}
+    },
+    "test": {
+      "unit": {},
+      "integration": {}
+    },
+    "docs": {
+      "api.md": null
+    },
+    ".gitignore": null,
+    "build.sbt": null,
+    "README.md": null,
+    "Dockerfile": null
+  },
+  "swift-app": {
+    "Sources": {
+      "App": {
+        "models": {},
+        "views": {},
+        "controllers": {}
+      },
+      "main.swift": null
+    },
+    "Tests": {
+      "AppTests": {}
+    },
+    "Resources": {
+      "assets": {}
+    },
+    "docs": {
+      "setup.md": null
+    },
+    ".gitignore": null,
+    "Package.swift": null,
+    "README.md": null,
+    "Dockerfile": null
+  },
+  "kotlin-multiplatform": {
+    "shared": {
+      "src": {
+        "commonMain": {
+          "kotlin": {}
+        },
+        "androidMain": {
+          "kotlin": {}
+        },
+        "iosMain": {
+          "kotlin": {}
+        }
+      }
+    },
+    "androidApp": {
+      "src": {
+        "main": {
+          "kotlin": {},
+          "res": {}
+        }
+      }
+    },
+    "iosApp": {},
+    "docs": {
+      "setup.md": null
+    },
+    ".gitignore": null,
+    "build.gradle.kts": null,
+    "README.md": null
+  },
+  "haskell-app": {
+    "app": {
+      "Main.hs": null
+    },
+    "src": {
+      "Lib.hs": null
+    },
+    "test": {
+      "Spec.hs": null
+    },
+    "docs": {
+      "guide.md": null
+    },
+    ".gitignore": null,
+    "package.yaml": null,
+    "README.md": null,
+    "stack.yaml": null
+  },
+  "r-shiny-app": {
+    "app": {
+      "ui.R": null,
+      "server.R": null
+    },
+    "data": {},
+    "www": {
+      "css": {},
+      "js": {}
+    },
+    "tests": {},
+    "docs": {
+      "guide.md": null
+    },
+    ".gitignore": null,
+    "README.md": null,
+    "app.Rproj": null
+  },
+  "jupyter-project": {
+    "notebooks": {
+      "analysis": {},
+      "prototypes": {}
+    },
+    "data": {
+      "raw": {},
+      "processed": {}
+    },
+    "src": {
+      "utils": {}
+    },
+    "docs": {
+      "report.md": null
+    },
+    "venv": {},
+    ".gitignore": null,
+    "requirements.txt": null,
+    "README.md": null
+  },
+  "wordpress-theme": {
+    "wp-content": {
+      "themes": {
+        "my-theme": {
+          "css": {},
+          "js": {},
+          "templates": {},
+          "functions.php": null,
+          "style.css": null,
+          "index.php": null
+        }
+      }
+    },
+    "docs": {
+      "theme.md": null
+    },
+    ".gitignore": null,
+    "README.md": null
+  }
+}
